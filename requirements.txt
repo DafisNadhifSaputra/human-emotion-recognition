@@ -1,0 +1,25 @@
+# Core data science libraries
+pandas
+matplotlib
+numpy
+seaborn
+scikit-learn
+tqdm
+
+# Image processing libraries
+opencv-python
+Pillow
+scikit-image
+
+# Deep learning libraries
+tensorflow
+keras
+keras-cv
+tensorflowjs
+
+# Jupyter notebook support
+jupyter
+ipykernel
+
+# Additional utilities
+pathlib2
