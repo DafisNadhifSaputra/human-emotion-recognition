@@ -42,7 +42,7 @@ Models are hosted on Hugging Face: [🤗 dafisnadhif/human-emotion-recognition](
 from huggingface_hub import hf_hub_download
 
 model_path = hf_hub_download(
-    repo_id="dafisnadhif/human-emotion-recognition",
+    repo_id="Dafisns/human-emotion-recognition",
     filename="model_base.h5"
 )
 
