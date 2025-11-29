@@ -26,7 +26,7 @@ This project contains CNN-based models trained to recognize human emotions from 
 
 ## Models
 
-Models are hosted on Hugging Face: [🤗 dafisnadhif/human-emotion-recognition](https://huggingface.co/dafisnadhif/human-emotion-recognition)
+Models are hosted on Hugging Face: [🤗 dafisnadhif/human-emotion-recognition](https://huggingface.co/Dafisns/human-emotion-recognition)
 
 | Model | Format | Input Size | Description |
 |-------|--------|------------|-------------|
